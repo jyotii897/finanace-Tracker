@@ -2,7 +2,7 @@
 
 A lightweight, premium Savings Planner application helping you track financial goals across multiple currencies (INR/USD). Built with Next.js 15, Tailwind CSS, and specific attention to design details.
 
-![Demo](/path/to/demo-image.png)
+[**🚀 View Live Demo**](https://finanace-tracker-3a57z45ep-rayjyoti66-7368s-projects.vercel.app)
 
 ## Features
 
@@ -26,7 +26,7 @@ A lightweight, premium Savings Planner application helping you track financial g
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/jyotii897/finanace-Tracker.git
    cd SyfeSavingsPlanner
    ```
 
