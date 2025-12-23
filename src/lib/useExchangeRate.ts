@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { ExchangeRateData } from '../types';
+import { ExchangeRateData } from './types';
 
 const RATE_API_URL = 'https://open.er-api.com/v6/latest/USD';
 
