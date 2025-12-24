@@ -4,7 +4,9 @@ A lightweight, premium Savings Planner application helping you track financial g
 
 [**🚀 View Live Demo**](https://finanace-tracker-3a57z45ep-rayjyoti66-7368s-projects.vercel.app)
 
-<video controls src="demo_video.mp4" title="Demo Video"></video>
+<video controls src="./demo_video.mp4" title="Demo Video" width="100%"></video>
+
+[Download/Watch Demo Video](./demo_video.mp4)
 
 ## Features
 
