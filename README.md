@@ -4,7 +4,7 @@ A lightweight, premium Savings Planner application helping you track financial g
 
 [**🚀 View Live Demo**](https://finanace-tracker-3a57z45ep-rayjyoti66-7368s-projects.vercel.app)
 
-<video controls src="Syfe Savings Planner - Google Chrome 2025-12-23 23-48-57.mp4" title="Demo Video"></video>
+<video controls src="demo_video.mp4" title="Demo Video"></video>
 
 ## Features
 
