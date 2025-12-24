@@ -3,6 +3,8 @@
 A lightweight, premium Savings Planner application helping you track financial goals across multiple currencies (INR/USD). Built with Next.js 15, Tailwind CSS, and specific attention to design details.
 
 [**🚀 View Live Demo**](https://finanace-tracker-3a57z45ep-rayjyoti66-7368s-projects.vercel.app)
+demo 
+
 
 ## Features
 
