@@ -73,7 +73,6 @@ This app is ready to be deployed on Vercel.
 ## License
 
 MIT
-#video
 
 
 
